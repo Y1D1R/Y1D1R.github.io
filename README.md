@@ -19,8 +19,10 @@
   - Developed and benchmarked various models, including LSTM Encoder-Decoder and CNN-LSTM Encoder-Decoder, for real-time multi-horizon classification of walking modes.
   - Analyzed the latent space to interpret patterns learned by the model, with potential applications for evaluating walking patterns in rehabilitation.
   - Optimized response times through downsampling and converted the model to TensorFlow Lite for embedded systems.
-![IMU and exoskeletton](/assets/capteurs.png)
-
+<p align="center">
+  <img src="/assets/capteurs.png" alt="IMU and exoskeletton" width="300"/>
+  <img src="/assets/architecture.png" alt="Model Architecture" width="500"/>
+</p>
 **Computer Vision Engineer** | Research Laboratory in Artificial Intelligence (LRIA) (Feb 2023 - July 2023; March 2021 - July 2021)  
   - Developed a semi-3D classification system for pulmonary nodule CT scans.
   - Implemented a Capsule Network (CapsNet) model from scratch to enhance detection accuracy.
