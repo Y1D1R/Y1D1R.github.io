@@ -32,8 +32,8 @@ Worked on pulmonary nodule classification using AI approaches to enhance detecti
   - Developed advanced classification methods, including Game Theory techniques.
   - Created a Python application for clinicians to classify nodules.
 <p align="center">
-  <img src="/assets/capteurs.png" alt="IMU and exoskeletton" width="300"/>
-  <img src="/assets/architecture.png" alt="Model Architecture" width="500"/>
+  <img src="/assets/CapsNet.png" alt="CapsNet Architecture" width="500"/>
+  <img src="/assets/easyNodule.png" alt="Easy Nodule" width="450"/>
 </p>
 
 **Computer Vision Engineer** | Research Laboratory in Artificial Intelligence (LRIA) (March 2021 - July 2021)  
@@ -63,6 +63,9 @@ Worked on fall detection application using computer vision to identify and track
   - Trained an MLP (Multilayer Perceptron) to classify different hand gestures.
   - Deployed the TFLite model on Arduino for real-time gesture recognition.
   - Presented the project at the TINYML4D international workshop.
+<p align="center">
+  <img src="/assets/Arduino.png" alt="System Architecture"/>
+</p>
 
 **Parking Management Application using License Plate Recognition with SIFT Descriptor** | USTHB (April 2022 - May 2022)  
   - Used SIFT descriptor for image matching and correspondence.
