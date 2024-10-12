@@ -3,13 +3,15 @@
 
 ## Education
 **Master's in Vision and Intelligent Systems** | University Paris Cité (2023 - 2024)  
-  Achieved "Très bien" (Honors)
+  Graduated with **Honors**
   
 **Master's in Visual Computing** | University of Science and Technology Houari Boumediene (2021 - 2023)  
-  Graduated as top of the class
+  Graduated as **top of the class**
   
 **Bachelor's in Computer Science** | University of Science and Technology Houari Boumediene (2018 - 2021)  
-  Achieved "Bien" (Good)
+  Graduated with **Merit**
+
+---
 
 ## Work Experience
 
@@ -46,6 +48,8 @@ Worked on fall detection application using computer vision to identify and track
   <img src="/assets/chute1.png" alt="Fall Detection 1" width="300"/>
   <img src="/assets/chute2.png" alt="Fall Detection 2" width="300"/>
 </p>
+
+---
 
 ## Projects
 
