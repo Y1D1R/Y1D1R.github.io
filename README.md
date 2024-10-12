@@ -43,8 +43,8 @@ Worked on fall detection application using computer vision to identify and track
   - Detected and tracked subjects based on the size of regions of interest, enclosing them in bounding boxes.
   - Integrated center of mass techniques to improve fall detection accuracy and reduce false alarms.
 <p align="center">
-  <img src="/assets/capteurs.png" alt="IMU and exoskeletton" width="300"/>
-  <img src="/assets/architecture.png" alt="Model Architecture" width="500"/>
+  <img src="/assets/chute1.png" alt="Fall Detection 1" width="300"/>
+  <img src="/assets/chute2.png" alt="Fall Detection 2" width="300"/>
 </p>
 
 ## Projects
