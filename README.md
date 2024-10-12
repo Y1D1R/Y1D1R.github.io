@@ -23,12 +23,29 @@
   <img src="/assets/capteurs.png" alt="IMU and exoskeletton" width="300"/>
   <img src="/assets/architecture.png" alt="Model Architecture" width="500"/>
 </p>
-**Computer Vision Engineer** | Research Laboratory in Artificial Intelligence (LRIA) (Feb 2023 - July 2023; March 2021 - July 2021)  
+
+**Computer Vision Engineer** | Research Laboratory in Artificial Intelligence (LRIA) (Feb 2023 - July 2023)  
+Worked on pulmonary nodule classification using AI approaches to enhance detection and diagnosis accuracy.
   - Developed a semi-3D classification system for pulmonary nodule CT scans.
   - Implemented a Capsule Network (CapsNet) model from scratch to enhance detection accuracy.
   - Applied data augmentation techniques to improve model robustness.
   - Developed advanced classification methods, including Game Theory techniques.
   - Created a Python application for clinicians to classify nodules.
+<p align="center">
+  <img src="/assets/capteurs.png" alt="IMU and exoskeletton" width="300"/>
+  <img src="/assets/architecture.png" alt="Model Architecture" width="500"/>
+</p>
+
+**Computer Vision Engineer** | Research Laboratory in Artificial Intelligence (LRIA) (March 2021 - July 2021)  
+Worked on fall detection application using computer vision to identify and track elderly individuals for safety monitoring.
+  - Developed an application for detecting falls in elderly individuals using background subtraction to isolate moving objects.
+  - Applied Gaussian filters to reduce video noise and enhance image clarity.
+  - Detected and tracked subjects based on the size of regions of interest, enclosing them in bounding boxes.
+  - Integrated center of mass techniques to improve fall detection accuracy and reduce false alarms.
+<p align="center">
+  <img src="/assets/capteurs.png" alt="IMU and exoskeletton" width="300"/>
+  <img src="/assets/architecture.png" alt="Model Architecture" width="500"/>
+</p>
 
 ## Projects
 
@@ -36,6 +53,9 @@
   - Worked with an electron microscopy dataset of the CA1 region of the hippocampus.
   - Fine-tuned the original U-Net architecture to fit the specific dataset.
   - Evaluated segmentation performance using metrics such as Precision, Recall, F1 Score, and Jaccard Index (IoU).
+<p align="center">
+  <img src="/assets/unet_segmentation.png" alt="U-Net Segmentation"/>
+</p>
 
 **Hand Gesture Recognition using TinyML** | USTHB (November 2022 - December 2022)  
   - Used two "Arduino Nano 33 BLE Sense" devices to detect hand gestures.
@@ -53,3 +73,6 @@
   - Implemented contrast enhancement and lesion segmentation.
   - Converted RGB color models to CIELAB for more accurate analysis.
   - Applied K-Means algorithm for region segmentation and used morphological filters for image refinement.
+<p align="center">
+  <img src="/assets/tai.jpg" alt="Lesion Segmentation"/>
+</p>
